@@ -1,7 +1,5 @@
 # Python Playground
 
-# Python Playground
-
 Welcome to the Python Playground! This repository contains a collection of examples that demonstrate the basics of Python programming. The examples are designed to be simple, easy to understand, and serve as a starting point for learning the Python language.
 
 Here is a summary of what you can find in this repository:
